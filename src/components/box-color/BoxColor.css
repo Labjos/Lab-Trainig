@@ -1,0 +1,13 @@
+.box-color {
+    display: flex;
+    width: 80%;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #000;
+    margin-left: 10%;
+}
+
+.box-color-p {
+    font-size: 25px;
+}

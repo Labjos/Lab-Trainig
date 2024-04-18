@@ -1,0 +1,13 @@
+.driver-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:aquamarine;
+    margin-top: 50px;
+}
+.driver-img {
+    width: 200px;
+    height: auto;
+    border-radius: 20%;
+    object-fit: cover;
+}

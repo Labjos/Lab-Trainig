@@ -1,0 +1,13 @@
+.facebook {
+    display: flex;
+    width: 80%;
+    border: 1px solid #000;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.facebook-img {
+    width: 150px;
+    height: auto;
+    padding: 5px;
+}

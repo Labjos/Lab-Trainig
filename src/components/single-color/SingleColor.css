@@ -1,0 +1,13 @@
+.single-color {
+    display: flex;
+    justify-content: flex-start;
+    text-align: center;
+    padding: 5px;
+}
+
+.box-color {
+    width: 30px;
+    height: auto;
+    padding: 5px;
+    border: 1px solid #256;
+}

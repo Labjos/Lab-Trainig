@@ -1,0 +1,18 @@
+.number-table {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.even {
+    width: 40px;
+    text-align: center;
+    background-color: red;
+    color: #fff;
+}
+
+.odd {
+    width: 40px;
+    text-align: center;
+    background-color: aqua;
+}

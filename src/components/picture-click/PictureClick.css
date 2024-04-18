@@ -1,0 +1,13 @@
+.click-rick {
+    position: absolute;
+    height: 150px;
+    margin-top: 10px;
+}
+
+.glasses {
+    
+    height: 45px;
+    margin-top: 80px;
+    margin-left: 70px;
+    transform: rotateZ(35deg);
+}
